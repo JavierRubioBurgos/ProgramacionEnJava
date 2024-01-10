@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Grandes
+comment1.params=nombre\ dianacimiento\ mesnacimiento\ a\u00F1onacimiento\ dni\ numerotierras
+comment1.target=Grandes(java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=boolean\ generarTipoPerecedero()
+comment3.params=
+comment3.target=float\ generarPrecioKg()
+comment4.params=
+comment4.target=void\ getTierras()
+comment5.params=scanner
+comment5.target=void\ crearTierra(java.util.Scanner)
+comment6.params=scanner
+comment6.target=void\ eliminarTierra(java.util.Scanner)
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Provincia
+comment1.params=nombre\ y\ x
+comment1.target=Provincia(java.lang.String,\ float,\ float)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=float\ getX()
+comment4.params=
+comment4.target=float\ getY()
+numComments=5

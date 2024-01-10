@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=NGrande
+comment1.params=nomEmpresa\ saldo\ mapa
+comment1.target=NGrande(java.lang.String,\ float,\ MapaPen\u00EDnsularEspa\u00F1a.Mapa)
+comment2.params=mapa
+comment2.target=void\ setMapa(MapaPen\u00EDnsularEspa\u00F1a.Mapa)
+comment3.params=
+comment3.target=void\ seleccionarUbicacion()
+comment4.params=
+comment4.target=java.lang.String\ obtenerNombreProvincia()
+comment5.params=
+comment5.target=MapaPen\u00EDnsularEspa\u00F1a.Provincia\ getUbicacion()
+comment6.params=
+comment6.target=java.lang.String\ getNombreEmpresa()
+numComments=7

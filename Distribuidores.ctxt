@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Distribuidores
+comment1.params=nombre\ saldo\ mapa
+comment1.target=Distribuidores(java.lang.String,\ float,\ MapaPen\u00EDnsularEspa\u00F1a.Mapa)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=float\ getSaldo()
+comment4.params=mapa
+comment4.target=void\ setMapa(MapaPen\u00EDnsularEspa\u00F1a.Mapa)
+comment5.params=
+comment5.target=void\ seleccionarUbicacion()
+comment6.params=
+comment6.target=java.lang.String\ obtenerNombreProvincia()
+comment7.params=
+comment7.target=MapaPen\u00EDnsularEspa\u00F1a.Provincia\ getUbicacion()
+numComments=8

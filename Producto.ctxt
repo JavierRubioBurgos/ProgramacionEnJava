@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Producto
+comment1.params=nombre\ Perecedero\ precioKg
+comment1.target=Producto(java.lang.String,\ boolean,\ float)
+comment2.params=
+comment2.target=float\ generarPrecio()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=
+comment4.target=float\ getPrecioKg()
+comment5.params=
+comment5.target=boolean\ getPerecedero()
+numComments=6

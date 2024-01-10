@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Productores
+comment0.text=\r\nLa\ clase\ Productores\ es\ una\ clase,tienes\ que\ asociarte\ al\ tipo\ de\ productor,\ peque\u00F1o,\ grande\ y\ federado.\ \r\nHay\ un\ atributo\ nuevo\ que\ es\ el\ de\ numerodetierras.\ Este\ atributo\ es\ el\ que\ dependiendo\ de\ su\ valor\ va\ a\ definir\ \r\nlas\ caracter\u00EDsticas\ de\ cada\ tipo\ de\ productor.\r\n
+comment1.params=nombre\ dianacimiento\ mesnacimiento\ a\u00F1onacimiento\ dni\ numerotierras
+comment1.target=Productores(java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getNumeroTierras()
+numComments=3

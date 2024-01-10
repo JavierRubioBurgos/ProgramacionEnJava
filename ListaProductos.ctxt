@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ListaProductos
+comment1.params=
+comment1.target=ListaProductos()
+comment2.params=producto
+comment2.target=void\ a\u00F1adirProducto(Producto)
+comment3.params=
+comment3.target=void\ verProductos()
+comment4.params=
+comment4.target=java.util.ArrayList\ getProductos()
+comment5.params=
+comment5.target=int\ tama\u00F1oLista()
+comment6.params=producto
+comment6.target=boolean\ contieneProducto(Producto)
+comment7.params=nombreProducto
+comment7.target=Producto\ getProducto(java.lang.String)
+numComments=8

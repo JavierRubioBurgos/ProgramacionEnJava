@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tierra
+comment1.params=hect\u00E1reas\ producto\ rendimiento
+comment1.target=Tierra(float,\ Producto,\ float)
+comment2.params=
+comment2.target=float\ getHect\u00E1reas()
+comment3.params=
+comment3.target=Producto\ getProducto()
+comment4.params=
+comment4.target=float\ getRendimiento()
+numComments=5

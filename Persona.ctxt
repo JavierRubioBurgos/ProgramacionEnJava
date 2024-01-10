@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\nLa\ clase\ Persona\ es\ una\ clase\ abstracta\ que\ contiene\ todos\ los\ datos\r\nde\ cualquier\ persona\ que\ forma\ esta\ cooperativa\ agr\u00EDcola.\ Es\ una\ clase\ de\ la\ que\r\nno\ se\ pueden\ crear\ objetos\ directmente\ para\ encasillar\ a\ las\ Personas\ en\ el\ rol\r\nal\ que\ pertenezcan\ (Productores,Log\u00EDstica,Distribuidores\ y\ Consumidores).\r\nPor\ lo\ tanto,\ esta\ clase\ es\ superclase\ de\ Productores,\ Log\u00EDstica,\ Distribuidores\ y\ Consumidores.\r\n
+comment1.params=nombre\ dianacimiento\ mesnacimiento\ a\u00F1onacimiento\ dni
+comment1.target=Persona(java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=int\ getDianacimiento()
+comment4.params=
+comment4.target=int\ getMesnacimiento()
+comment5.params=
+comment5.target=int\ getA\u00F1onacimiento()
+comment6.params=
+comment6.target=java.lang.String\ getDni()
+numComments=7

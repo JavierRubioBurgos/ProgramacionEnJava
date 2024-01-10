@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Log\u00EDstica
+comment1.params=nomEmpresa\ saldo
+comment1.target=Log\u00EDstica(java.lang.String,\ float)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=float\ getSaldo()
+comment4.params=nomEmpresa
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=cantidad
+comment5.target=void\ recibirDinero(float)
+numComments=6

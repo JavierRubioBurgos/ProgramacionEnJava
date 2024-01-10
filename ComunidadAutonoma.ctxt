@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ComunidadAutonoma
+comment1.params=nombre\ provincias
+comment1.target=ComunidadAutonoma(java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.util.ArrayList\ getProvincias()
+numComments=4

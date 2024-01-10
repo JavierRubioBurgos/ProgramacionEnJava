@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Mapa
+comment1.params=
+comment1.target=Mapa()
+comment2.params=
+comment2.target=void\ mostrarProvincias()
+comment3.params=nombre
+comment3.target=Provincia\ getProvinciaPorNombre(java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ getProvincias()
+comment5.params=provincia1\ provincia2
+comment5.target=double\ CalcularDistancia(Provincia,\ Provincia)
+numComments=6

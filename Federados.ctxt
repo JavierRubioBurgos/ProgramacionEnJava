@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Federados
+comment1.params=nombre1\ dianacimiento1\ mesnacimiento1\ a\u00F1onacimiento1\ dni1\ nombre2\ dianacimiento2\ mesnacimiento2\ a\u00F1onacimiento2\ dni2
+comment1.target=Federados(java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ generarTipoPerecedero()
+comment3.params=
+comment3.target=float\ generarPrecioKg()
+comment4.params=
+comment4.target=void\ crearTierra()
+comment5.params=
+comment5.target=void\ eliminarTierra()
+comment6.params=
+comment6.target=void\ getTierra()
+numComments=7
